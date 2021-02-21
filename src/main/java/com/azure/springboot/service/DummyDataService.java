@@ -8,6 +8,8 @@ import reactor.core.publisher.Flux;
 
 import java.util.UUID;
 
+import javax.annotation.PostConstruct;
+
 @Service
 public class DummyDataService {
 
