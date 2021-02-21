@@ -47,7 +47,7 @@
           <subscriptionId>88fc7770-1602-4632-9e77-171eed71e532</subscriptionId>  
           <resourceGroup>Azure-springboot</resourceGroup>  
           <appName>springboot-1613873739727</appName>  
-          <pricingTier>P1v2</pricingTier>  
+          <pricingTier>F1</pricingTier>  
           <region>centralus</region>  
           <runtime> 
             <os>Linux</os>  
